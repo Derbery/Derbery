@@ -43,5 +43,9 @@ Courteous and enthusiastic, I am interested in Python, Pentesting, Digital Foren
   <img src="https://assets.tryhackme.com/img/favicon.png" title="Tryhackme" **alt="Tryhackme" width="60" height="40"/>&nbsp;
   <img src="https://miro.medium.com/max/1190/1*VHwe3Z6UQ-AkIZv-toe3jg.png" title="HackTheBox" **alt="HackTheBox" width="60" height="40"/>&nbsp; 
   </div>
+  
+  ---
+  ### 🔥 My Stats
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Derbery&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 

@@ -41,8 +41,7 @@ Courteous and enthusiastic, I am interested in Python, Pentesting, Digital Foren
      <img src="https://1000logos.net/wp-content/uploads/2020/10/Discord-logo.png" title="Discord" **alt="Discord" width="60" height="40"/>&nbsp;
      <img src="https://image.cnbcfm.com/api/v1/image/105684220-1547727181154mb_slack_01.jpg?v=1547727329&w=1400&h=950" title="slack" **alt="slack" width="60" height="40"/>&nbsp;
   <img src="https://assets.tryhackme.com/img/favicon.png" title="Tryhackme" **alt="Tryhackme" width="60" height="40"/>&nbsp;
-  <img src="https://miro.medium.com/max/1190/1*VHwe3Z6UQ-AkIZv-toe3jg.png" title="HackTheBox" **alt="HackTheBox" width="60" height="40"/>&nbsp;
-  
+  <img src="https://miro.medium.com/max/1190/1*VHwe3Z6UQ-AkIZv-toe3jg.png" title="HackTheBox" **alt="HackTheBox" width="60" height="40"/>&nbsp; 
   </div>
 
 

@@ -13,8 +13,15 @@ Courteous and enthusiastic, I am interested in Python, Pentesting, Digital Foren
 ---
 ### :hammer_and_wrench:Technical Skills
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/ubuntu-original-wordmark.svg" title="Ubuntu" alt="ubuntu" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="60" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="40"/>&nbsp;
+  <img src="https://www.unixmen.com/wp-content/uploads/2015/11/Kali_Linux_Logo.png" title="kali linux" alt="Kali" width="60" height="40"/>&nbsp;
+  <img src="https://www.redeszone.net/app/uploads-redeszone.net/2016/11/metasploit_logo.png" title="Metaspliot" alt="Metaspliot" width="60" height="40"/>&nbsp;
+  <img src="https://www.macupdate.com/images/icons512/23765.png" title="Wireshark" alt="wirshark" width="60" height="40"/>&nbsp;
+  <img src="https://gcatoolkit.org/wp-content/uploads/2019/04/nmap-logo@2x.jpg" title="Nmap" alt="Nmap" width="60" height="40"/>&nbsp;
+  <img src="https://portswigger.net/content/images/logos/burpsuite-twittercard.png" title="Burp suite" alt="Burp suite" width="60" height="40"/>
 </div>
-### 💡Learning
+
+---
+💡Learning
+

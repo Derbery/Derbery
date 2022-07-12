@@ -30,7 +30,7 @@ Courteous and enthusiastic, I am interested in Python, Pentesting, Digital Foren
 ---
 💡Learning
 -  I’m currently learning the triaging process using SIEM according to the playbooks and the knowledge base.
-- I’m currently learning Nessus and microsft 365 defender for Incident Response
+- I’m currently learning Nessus for vulnerability accessment and microsft 365 defender for Incident Response
 -  Practicing the use of mettre ATT&CK as a foundation for the development of specific threat models and methodologies.
 - Practicing the use of QRadar(SIEM), IDS, IPS, firewall, Cylance, RedCloak, McAfee antivirus, and other tools to monitor and analyze cyber security incidents.
 

@@ -9,7 +9,7 @@ Courteous and enthusiastic, I am interested in Python, Pentesting, Digital Foren
 - 🤔 I’m looking to help with anything cybersecurity related
 - 💬 Ask me about anything related to cybersecurity 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/deborah-adu-korang/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Linkedin&logoColor=white)](https://twitter.com/She_is_faceless)
+
 ---
 ### :hammer_and_wrench:Technical Skills
 <div>
